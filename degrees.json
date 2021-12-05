@@ -1,0 +1,27 @@
+{
+    "degrees": [{
+            "school": "University of Maryland, College Park",
+            "programMajor": "Studio Art",
+            "type": "BA",
+            "year": 2007
+        },
+        {
+            "school": "Boston University",
+            "programMajor": "Computer Information Systems",
+            "type": "MS",
+            "year": 2023
+        },
+        {
+            "school": "Clown College",
+            "programMajor": "Juggling",
+            "type": "BS",
+            "year": 2020
+        },
+        {
+            "school": "Hair School",
+            "programMajor": "Fades",
+            "type": "BS",
+            "year": 2021
+        }
+    ]
+}

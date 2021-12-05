@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.degrees-table {
+    border: 2px solid red;
+    margin: 20px;
+}
+
+tr:nth-child(even) {
+    background-color: white;
+    color: black;
+}
