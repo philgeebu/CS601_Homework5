@@ -3,7 +3,7 @@ body {
     color: white;
 }
 
-.degrees-table {
+table {
     border: 2px solid red;
     margin: 20px;
 }
@@ -11,4 +11,12 @@ body {
 tr:nth-child(even) {
     background-color: white;
     color: black;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:disabled {
+    cursor: not-allowed;
 }
